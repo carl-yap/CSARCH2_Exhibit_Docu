@@ -8,6 +8,9 @@ released and compared to their “relatives” from older periods in time.
 ## Video used during the exhibit
 [YouTube Link](https://youtu.be/gexbckkv1IQ?si=KzLMC37pWqAwTZH8)
 
+## Documentation as picture collage with annotations
+![picture collage](./pictures/collage.PNG)
+
 ## Group Members
 1. MANIPOL, Marion
 2. PUA, Kendrick
